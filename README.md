@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/ᴍᴀɴɪꜱʜ-ᴋᴀꜱʜʏᴀᴘ-32022a2aa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/Manish-kashyap" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:manishkshyp0123@gmail.com">
@@ -65,31 +65,29 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <h3>💼 <a href="#">Indian Job Market Skill Analyzer</a></h3>
+      <h3>💼 <a href="https://github.com/Manish-kashyap">Indian Job Market Skill Analyzer</a></h3>
       <p>Extracted and analyzed job postings to identify top-demanded skills, salary distributions, and hiring trends across tech roles.</p>
       <p><i>Tech: Python, Pandas, Seaborn</i></p>
     </td>
     <td width="50%">
-      <h3>💰 <a href="#">Personal Finance Intelligence Dashboard</a></h3>
+      <h3>💰 <a href="https://github.com/Manish-kashyap">Personal Finance Intelligence Dashboard</a></h3>
       <p>End-to-end data cleaning and visualization pipeline tracking income, expense categories, and budgeting forecasts.</p>
       <p><i>Tech: Advanced Excel, SQL, Power BI</i></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>📈 <a href="#">Business Performance Analyzer</a></h3>
+      <h3>📈 <a href="https://github.com/Manish-kashyap">Business Performance Analyzer</a></h3>
       <p>Built interactive dashboards to identify regional sales bottlenecks, customer churn drivers, and seasonal revenue patterns.</p>
       <p><i>Tech: MySQL, Tableau, EDA</i></p>
     </td>
     <td width="50%">
-      <h3>🛒 <a href="#">E-Commerce Customer Behavior</a></h3>
+      <h3>🛒 <a href="https://github.com/Manish-kashyap">E-Commerce Customer Behavior</a></h3>
       <p>In-depth exploratory data analysis uncovering customer segmentation, purchasing funnels, and retention metrics.</p>
       <p><i>Tech: Python, Matplotlib, Scikit-learn</i></p>
     </td>
   </tr>
 </table>
-
-> 📌 *Click the project titles to view the respective GitHub repositories!*
 
 <br/>
 
@@ -106,19 +104,29 @@
 <!-- GitHub Trophies -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Manish-kashyap&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
 <!-- Stats Cards with Tokyonight Theme -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manish-kashyap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manish-kashyap&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
 </p>
 
 <!-- Streak Counter -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Manish-kashyap&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- Top / Pinned Repositories -->
+<p align="center">
+  <a href="https://github.com/Manish-kashyap/Customer_Churn_Analysis-Python-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manish-kashyap&repo=Customer_Churn_Analysis-Python-&theme=tokyonight&show_owner=true" alt="Customer Churn Analysis" />
+  </a>
+  <a href="https://github.com/Manish-kashyap/Diwali_Sales_Analysis-python-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manish-kashyap&repo=Diwali_Sales_Analysis-python-&theme=tokyonight&show_owner=true" alt="Diwali Sales Analysis" />
+  </a>
 </p>
 
 <br/>
