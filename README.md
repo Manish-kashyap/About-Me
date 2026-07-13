@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 👨‍💻 About Me
 
@@ -30,12 +30,26 @@
 
 - 🎓 **Education:** Final Year B.Tech in Computer Science & Engineering at **Teerthanker Mahaveer University**
 - 🔭 **Mission:** Passionate about solving complex business problems through **Data Exploration, Statistical Analysis & Visualization**
-- 🛠️ **Current Focus:** Deepening expertise in complex **SQL queries, Advanced Excel forecasting, Python scripting (Pandas/NumPy), and Power BI Dashboards**
+- 🛠️ **Current Focus:** Deepening expertise in complex **SQL queries, Advanced Excel forecasting, Python scripting, and Power BI Dashboards**
 - 🌱 **What I'm doing:** Actively building end-to-end analytics pipelines and storytelling dashboards from raw, messy datasets
 - 🎯 **Goals:** Seeking **Data Analyst & Business Intelligence Internship roles** to drive data-informed decision making
 - 📫 **Reach me at:** **manishkshyp0123@gmail.com**
 
-<br/><br/>
+<br/>
+
+## 🔄 My Data Analytics Workflow
+
+<div align="center">
+  <h3>
+    <code>Data Extraction (SQL)</code> ➔ 
+    <code>Data Cleaning (Pandas)</code> ➔ 
+    <code>EDA (Matplotlib/Seaborn)</code> ➔ 
+    <code>Dashboards (Power BI)</code> ➔ 
+    <code>Business Impact 🚀</code>
+  </h3>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🛠️ My Data Arsenal
 
@@ -77,19 +91,19 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>📈 <a href="https://github.com/Manish-kashyap">Business Performance Analyzer</a></h3>
-      <p>Built interactive dashboards to identify regional sales bottlenecks, customer churn drivers, and seasonal revenue patterns.</p>
-      <p><i>Tech: MySQL, Tableau, EDA</i></p>
+      <h3>📈 <a href="https://github.com/Manish-kashyap/Customer_Churn_Analysis-Python-">Customer Churn Analysis</a></h3>
+      <p>In-depth exploratory data analysis to identify customer drop-off points, retention metrics, and behavioral patterns.</p>
+      <p><i>Tech: Python, Matplotlib, EDA</i></p>
     </td>
     <td width="50%">
-      <h3>🛒 <a href="https://github.com/Manish-kashyap">E-Commerce Customer Behavior</a></h3>
-      <p>In-depth exploratory data analysis uncovering customer segmentation, purchasing funnels, and retention metrics.</p>
-      <p><i>Tech: Python, Matplotlib, Scikit-learn</i></p>
+      <h3>🛒 <a href="https://github.com/Manish-kashyap/Diwali_Sales_Analysis-python-">Diwali Sales Analysis</a></h3>
+      <p>Comprehensive breakdown of festive sales data uncovering regional sales bottlenecks and demographic purchasing funnels.</p>
+      <p><i>Tech: Python, Pandas, Data Storytelling</i></p>
     </td>
   </tr>
 </table>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🏆 Certifications & Achievements
 
@@ -99,39 +113,12 @@
 
 <br/>
 
-## 📊 GitHub Analytics
+## 🌱 Currently Exploring
+*   🧠 **Advanced Machine Learning** (XGBoost, Random Forest tuning)
+*   📊 **Advanced DAX Formulas** for complex Power BI measures
+*   ☁️ **Cloud Data Concepts** (Introduction to AWS/Azure for Data Analytics)
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Manish-kashyap&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<!-- Stats Cards with Tokyonight Theme -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manish-kashyap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manish-kashyap&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
-</p>
-
-<!-- Streak Counter -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Manish-kashyap&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<!-- Top / Pinned Repositories -->
-<p align="center">
-  <a href="https://github.com/Manish-kashyap/Customer_Churn_Analysis-Python-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manish-kashyap&repo=Customer_Churn_Analysis-Python-&theme=tokyonight&show_owner=true" alt="Customer Churn Analysis" />
-  </a>
-  <a href="https://github.com/Manish-kashyap/Diwali_Sales_Analysis-python-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manish-kashyap&repo=Diwali_Sales_Analysis-python-&theme=tokyonight&show_owner=true" alt="Diwali Sales Analysis" />
-  </a>
-</p>
-
-<br/>
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <div align="center">
   <h3>Connect with me to talk about Data, Dashboards, and Analytics! 🤝</h3>
