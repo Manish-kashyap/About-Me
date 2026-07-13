@@ -27,8 +27,6 @@
 
 ## 👾 About My Journey
 
-<img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Analytics GIF" style="border-radius: 10px; margin-left: 15px;" />
-
 - 🎓 **Education:** Final Year B.Tech CSE @ **Teerthanker Mahaveer University**
 - 💡 **Mission:** Solving complex business problems through *Data Exploration & Storytelling*
 - 🛠️ **Current Focus:** Deepening expertise in complex **SQL, Advanced Excel, Python & Power BI**
