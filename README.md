@@ -123,32 +123,9 @@
 
 <br/>
 
-## 📈 Contribution Activity & Snake Animation
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyonight&hide_border=true" alt="Activity Graph" />
-</p>
-
-<!-- Note: To make the snake animation work, you will need to set up the GitHub Action in your repository -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-<br/>
-
-## 💡 Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
-</p>
-
 ---
 
 <div align="center">
   <h3>Connect with me to talk about Data, Dashboards, and Analytics! 🤝</h3>
   <p><i>⭐ Star my repos if you find them helpful — always open to collaborations!</i></p>
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=00599C" alt="Profile Views" />
 </div>
