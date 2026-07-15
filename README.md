@@ -1,12 +1,15 @@
 <!-- ===================== STATIC HEADER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=2,3&height=250&section=header&text=Hello,%20I'm%20Manish!%20👋&fontSize=55&fontAlignY=35&fontColor=ffffff&desc=Data%20Analyst%20%7C%20AI%20Developer%20%7C%20Educator&descAlignY=55&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&customColorList=2,3&height=250&section=header&text=Hello,%20I'm%20Manish!%20👋&fontSize=55&fontAlignY=35&fontColor=ffffff&desc=Data%20Analyst%20%7C%20AI%20Developer%20%7C%20Educator&descAlignY=55&descAlign=50" width="100%" alt="Header" />
 </div>
 
-<!-- ===================== DYNAMIC QUOTE & TYPING ===================== -->
+<!-- ===================== STATIC SUB-HEADER ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=%3E%3E+Aspiring+Data+Analyst_+%26+AI+Developer_;%3E%3E+Transforming+Raw+Data+into+Business+Intel_;%3E%3E+SQL+%7C+Python+%7C+Power+BI+%7C+Tableau_;%3E%3E+Open+to+Data+Analytics+Internships_" alt="Typing SVG" />
-  <br><br>
+  <br>
+  <h3><b>&gt;&gt; Aspiring Data Analyst &amp; AI Developer_</b></h3>
+  <p><i>Transforming Raw Data into Business Intel</i></p>
+  <p><b>SQL | Python | Power BI | Tableau</b><br>Open to Data Analytics Internships</p>
+  <br>
   <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&font=Share+Tech+Mono" alt="Daily Quote" />
 </div>
 
@@ -181,5 +184,5 @@
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
   <h3>⚡ Turning Data Into Decisions, One Dataset at a Time ⚡</h3>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=2,3&height=120&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&customColorList=2,3&height=120&section=footer" width="100%" alt="Footer Wave" />
 </div>
