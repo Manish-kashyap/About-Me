@@ -1,11 +1,11 @@
 <!-- ===================== DYNAMIC HEADER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=2,3&height=250&section=header&text=Hello,%20I'm%20Manish!%20👋&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Data%20Analyst%20%7C%20Storyteller%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=2,3&height=250&section=header&text=Hello,%20I'm%20Manish!%20👋&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Data%20Analyst%20%7C%20AI%20Enthusiast%20%7C%20Storyteller&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <!-- ===================== DYNAMIC QUOTE & TYPING ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=%3E%3E+Aspiring+Data+Analyst_;%3E%3E+Transforming+Raw+Data+into+Business+Intel_;%3E%3E+SQL+%7C+Advanced+Excel+%7C+Python+%7C+Power+BI_;%3E%3E+Open+to+Data+Analytics+Internships_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=%3E%3E+Aspiring+Data+Analyst_+%26+AI+Developer_;%3E%3E+Transforming+Raw+Data+into+Business+Intel_;%3E%3E+SQL+%7C+Advanced+Excel+%7C+Python+%7C+Power+BI_;%3E%3E+Open+to+Data+Analytics+Internships_" alt="Typing SVG" />
   <br><br>
   <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&font=Share+Tech+Mono" alt="Daily Quote" />
 </div>
@@ -16,8 +16,10 @@
   <a href="https://www.linkedin.com/in/ᴍᴀɴɪꜱʜ-ᴋᴀꜱʜʏᴀᴘ-32022a2aa"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9D&labelColor=0D1117&border=00FF9D" alt="LinkedIn" /></a>
   <a href="https://github.com/Manish-kashyap"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9D&labelColor=0D1117&border=00FF9D" alt="GitHub" /></a>
   <a href="mailto:manishkshyp0123@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9D&labelColor=0D1117&border=00FF9D" alt="Email" /></a>
+  <a href="https://youtube.com/@Ai_baba_ki_comedy"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=00FF9D&labelColor=0D1117&border=00FF9D" alt="YouTube" /></a>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Manish-kashyap&label=PROFILE+VIEWS&color=00ff9d&style=for-the-badge&base=1000" alt="Profile Views" />
+  <!-- Exact Profile Views (Base artificial counter removed) -->
+  <img src="https://komarev.com/ghpvc/?username=Manish-kashyap&label=EXACT+PROFILE+VIEWS&color=00ff9d&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br>
@@ -30,12 +32,12 @@
     <td width="60%" style="border: none;">
       <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="30" /> About My Journey</h2>
       <ul>
-        <li>🎓 <b>Education:</b> Final Year B.Tech CSE (AI/ML) @ <b>Teerthanker Mahaveer University</b></li>
+        <li>🎓 <b>Education:</b> Final Year B.Tech CSE (AI/ML & Deep Learning) @ <b>TMU</b></li>
         <li>💡 <b>Mission:</b> Solving complex business problems through <i>Data Exploration & Storytelling</i></li>
         <li>🛠️ <b>Current Focus:</b> Deepening expertise in <b>SQL, Advanced Excel, Python & Power BI</b></li>
-        <li>🌱 <b>Currently Learning:</b> Advanced DAX formulas and Cloud Data Warehousing</li>
+        <li>🧠 <b>Tech Interests:</b> Building smart applications using OCR, AI, and Machine Learning</li>
         <li>🎯 <b>Status:</b> Actively seeking <b>Data Analyst & BI Internship roles</b></li>
-        <li>⚡ <b>Fun Fact:</b> When I'm not wrangling data, I'm creating content and exploring technical humor!</li>
+        <li>⚡ <b>Beyond Code:</b> Content creator running tech humor/comedy channels and generating hyper-realistic AI portraits!</li>
       </ul>
     </td>
     <td width="40%" align="center" style="border: none;">
@@ -62,7 +64,8 @@
     <td width="50%" align="center" style="border: none;">
       <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" /> Tech Arsenal</h2>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,excel,powerbi,tableau,pycharm,jupyter,vscode,github,git&perline=4&theme=dark" alt="Skills Grid" />
+        <!-- Expanded skills grid -->
+        <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,excel,powerbi,tableau,pycharm,jupyter,vscode,github,git,html,css,js,figma&perline=4&theme=dark" alt="Skills Grid" />
       </a>
     </td>
   </tr>
@@ -74,11 +77,27 @@
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" alt="Floppy Disk" width="35" /> Featured Projects</h2>
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" alt="Floppy Disk" width="35" /> Featured Projects & Startups</h2>
 </div>
 
 <table align="center" style="border: none;">
   <tr style="border: none;">
+    <!-- Added Startup Project -->
+    <td width="50%" align="center" style="border: none;">
+      <a href="https://github.com/Manish-kashyap">
+        <img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=500&auto=format&fit=crop" width="100%" style="border-radius:15px; border: 2px solid #00FF9D;" />
+      </a>
+      <h3>💊 Smart Medicine Scanner (Startup Concept)</h3>
+      <blockquote>AI-powered application utilizing OCR technology to scan, translate, and explain complex medication details to end-users.</blockquote>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/OCR-00FF9D?style=flat-square&logoColor=black" />
+        <img src="https://img.shields.io/badge/AI_Integration-4C72B0?style=flat-square&logoColor=white" />
+      </p>
+      <a href="https://github.com/Manish-kashyap">
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-00FF9D?style=for-the-badge&logo=github&logoColor=black" />
+      </a>
+    </td>
     <td width="50%" align="center" style="border: none;">
       <a href="https://github.com/Manish-kashyap/Customer_Churn_Analysis-Python-">
         <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=500&auto=format&fit=crop" width="100%" style="border-radius:15px; border: 2px solid #00FF9D;" />
@@ -94,6 +113,8 @@
         <img src="https://img.shields.io/badge/VIEW_PROJECT-00FF9D?style=for-the-badge&logo=github&logoColor=black" />
       </a>
     </td>
+  </tr>
+  <tr style="border: none;">
     <td width="50%" align="center" style="border: none;">
       <a href="https://github.com/Manish-kashyap/Diwali_Sales_Analysis-python-">
         <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=500&auto=format&fit=crop" width="100%" style="border-radius:15px; border: 2px solid #00FF9D;" />
@@ -106,23 +127,6 @@
         <img src="https://img.shields.io/badge/Storytelling-00FF9D?style=flat-square&logoColor=black" />
       </p>
       <a href="https://github.com/Manish-kashyap/Diwali_Sales_Analysis-python-">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-00FF9D?style=for-the-badge&logo=github&logoColor=black" />
-      </a>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td width="50%" align="center" style="border: none;">
-      <a href="https://github.com/Manish-kashyap">
-        <img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?q=80&w=500&auto=format&fit=crop" width="100%" style="border-radius:15px; border: 2px solid #00FF9D;" />
-      </a>
-      <h3>💼 Indian Job Market Analyzer</h3>
-      <blockquote>Extracted and analyzed job postings to identify top-demanded skills, salary distributions, and hiring trends across tech roles.</blockquote>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Web_Scraping-4C72B0?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Analytics-00FF9D?style=flat-square&logoColor=black" />
-      </p>
-      <a href="https://github.com/Manish-kashyap">
         <img src="https://img.shields.io/badge/VIEW_PROJECT-00FF9D?style=for-the-badge&logo=github&logoColor=black" />
       </a>
     </td>
@@ -148,6 +152,31 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <br>
 
+<!-- ===================== NEW FEATURE: CONTENT CREATION ===================== -->
+<div align="center">
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" alt="Clapper Board" width="35" /> Beyond Data: Content Creation & AI Art</h2>
+</div>
+
+<table align="center" width="100%" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="70%" style="border-radius:15px; box-shadow: 0px 4px 15px rgba(0, 255, 157, 0.3);" />
+    </td>
+    <td width="50%" style="border: none;">
+      <h3>🎬 Digital Storytelling & Prompt Engineering</h3>
+      <ul>
+        <li><b>YouTube Creator:</b> I manage channels blending comedy, mini-vlogs, and technical humor (<i>Ai baba ki comedy</i> & <i>ilikemanish</i>).</li>
+        <li><b>AI Image Generation:</b> Expert in crafting complex prompts to design hyper-realistic portraits, 3D figurines, and restoring vintage photographs.</li>
+        <li><b>Design:</b> Creating compelling channel banners, logos, and digital branding assets.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<br>
+
 <!-- ===================== GITHUB STATS & ACTIVITY ===================== -->
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" /> GitHub Analytics & Contributions</h2>
@@ -159,7 +188,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Manish-kashyap&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00FF9D&title_color=00FF9D" alt="GitHub Stats" width="100%" />
     </td>
     <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-kashyap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-kashyap&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
@@ -173,9 +202,10 @@
 <!-- Dynamic GitHub Snake Animation -->
 <div align="center">
   <picture>
+    <!-- Note: If the snake animation doesn't load, ensure the GitHub Action for it is active in your repository! -->
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manish-kashyap/Manish-kashyap/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manish-kashyap/Manish-kashyap/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Manish-kashyap/Manish-kashyap/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Manish-kashyap/Manish-kashyap/output/github-contribution-grid-snake.svg" onerror="this.style.display='none'">
   </picture>
 </div>
 
@@ -194,22 +224,28 @@
       <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" /> Achievements</h2>
       <img src="https://github-profile-trophy.vercel.app/?username=Manish-kashyap&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=3" width="100%" />
     </td>
-    <td width="50%" style="border: none;">
-      <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Glowing%20Star.png" alt="Star" width="35" /> Certifications</h2>
-      <details>
-        <summary><b>🤖 Machine Learning (NPTEL)</b></summary>
-        <blockquote>Certified in core machine learning algorithms, data modeling, predictive analytics, and model evaluation techniques.</blockquote>
-      </details>
-      <br>
-      <details>
-        <summary><b>📊 Advanced Excel (Skilllearn)</b></summary>
-        <blockquote>Certified in advanced data analysis, complex formulas, data manipulation, and building dynamic business reports.</blockquote>
-      </details>
-      <br>
-      <details>
-        <summary><b>📈 Power BI Certification</b></summary>
-        <blockquote>Demonstrated proficiency in data visualization, data modeling, DAX queries, and data-driven storytelling.</blockquote>
-      </details>
+    <td width="50%" style="border: none;" align="center">
+      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Glowing%20Star.png" alt="Star" width="35" /> Certifications</h2>
+      
+      <!-- Added Graphic to fill vacant space in Certifications -->
+      <img src="https://media.giphy.com/media/26tn33aiTi1jVDzO0/giphy.gif" width="40%" style="border-radius:10px; margin-bottom: 15px;" />
+      
+      <div align="left">
+        <details>
+          <summary><b>🤖 Machine Learning (NPTEL)</b></summary>
+          <blockquote>Certified in core machine learning algorithms, data modeling, predictive analytics, and model evaluation techniques.</blockquote>
+        </details>
+        <br>
+        <details>
+          <summary><b>📊 Advanced Excel (Skilllearn)</b></summary>
+          <blockquote>Certified in advanced data analysis, complex formulas, data manipulation, and building dynamic business reports.</blockquote>
+        </details>
+        <br>
+        <details>
+          <summary><b>📈 Power BI Certification</b></summary>
+          <blockquote>Demonstrated proficiency in data visualization, data modeling, DAX queries, and data-driven storytelling.</blockquote>
+        </details>
+      </div>
     </td>
   </tr>
 </table>
@@ -222,7 +258,7 @@
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" /> Let's Connect & Collaborate!</h2>
   
-  <h3>💬 Interested in Data Analytics, Business Intelligence, or turning raw numbers into strategic insights?</h3>
+  <h3>💬 Interested in Data Analytics, Business Intelligence, or Content Creation?</h3>
   <p><b>I'm open to internships, collaborations, and exciting data projects. Don't hesitate to reach out!</b></p>
   
   <br>
@@ -233,6 +269,10 @@
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ᴍᴀɴɪꜱʜ-ᴋᴀꜱʜʏᴀᴘ-32022a2aa">
     <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9D&border=00FF9D" />
+  </a>
+   &nbsp;&nbsp;
+  <a href="https://instagram.com/ilikemanish">
+    <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF9D&border=00FF9D" />
   </a>
 </div>
 
