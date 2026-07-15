@@ -10,7 +10,7 @@
   <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&font=Share+Tech+Mono" alt="Daily Quote" />
 </div>
 
-<!-- ===================== SOCIAL LINKS, PORTFOLIO & VISITOR BADGE ===================== -->
+<!-- ===================== SOCIAL LINKS & PORTFOLIO ===================== -->
 <div align="center">
   <br>
   <a href="https://portfolio-ci5f.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=globe&logoColor=00FF9D&labelColor=0D1117&border=00FF9D" alt="Portfolio" /></a>
@@ -22,21 +22,13 @@
   <img src="https://komarev.com/ghpvc/?username=Manish-kashyap&label=EXACT+PROFILE+VIEWS&color=00ff9d&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<!-- ===================== MAGIC WAND DIVIDER ===================== -->
 <br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magic%20Wand.png" alt="Magic Wand" width="40" />
-  <br>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" alt="divider" />
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" alt="divider" />
 <br>
 
 <!-- ===================== ABOUT ME ===================== -->
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="35" /> About My Journey</h2>
-  
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 255, 157, 0.3);" alt="Working Coding Animation" />
-  <br><br>
 </div>
 
 * 🎓 **Education:** Final Year B.Tech CSE (AI/ML & Deep Learning) @ **TMU**
@@ -46,13 +38,8 @@
 * 📖 **Mentorship:** Passionate about educational instruction, structuring complex topics into digestible lesson plans.
 * 🎯 **Status:** Actively seeking **Data Analyst & BI Internship roles**
 
-<!-- ===================== MAGIC WAND DIVIDER ===================== -->
 <br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magic%20Wand.png" alt="Magic Wand" width="40" />
-  <br>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" alt="divider" />
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" alt="divider" />
 <br>
 
 <!-- ===================== SKILLS ARSENAL ===================== -->
@@ -82,13 +69,8 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 </div>
 
-<!-- ===================== MAGIC WAND DIVIDER ===================== -->
 <br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magic%20Wand.png" alt="Magic Wand" width="40" />
-  <br>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" alt="divider" />
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" alt="divider" />
 <br>
 
 <!-- ===================== THE ANALYTICS WORKFLOW ===================== -->
@@ -113,13 +95,8 @@
   <blockquote>Designing interactive, automated, and dynamic dashboards in Power BI and Tableau for stakeholder reporting.</blockquote>
 </details>
 
-<!-- ===================== MAGIC WAND DIVIDER ===================== -->
 <br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magic%20Wand.png" alt="Magic Wand" width="40" />
-  <br>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" alt="divider" />
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" alt="divider" />
 <br>
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
@@ -142,32 +119,21 @@
 * **Stack:** `Python`, `Pandas`, `Stats`, `Data Storytelling`
 * [View Repository ➜](https://github.com/Manish-kashyap/Diwali_Sales_Analysis-python-)
 
-<!-- ===================== MAGIC WAND DIVIDER ===================== -->
 <br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magic%20Wand.png" alt="Magic Wand" width="40" />
-  <br>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" alt="divider" />
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" alt="divider" />
 <br>
 
 <!-- ===================== CONTENT CREATION ===================== -->
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" alt="Clapper Board" width="35" /> Beyond Data: Content Creation & AI Art</h2>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" style="border-radius:15px; box-shadow: 0px 4px 15px rgba(0, 255, 157, 0.3);" alt="AI Art GIF" />
 </div>
 
 * 🎬 **YouTube Creator:** Managing channels blending comedy, mini-vlogs, and technical humor (*Ai baba ki comedy* & *ilikemanish*).
 * 🤖 **Prompt Engineering:** Expert in crafting complex prompts to design hyper-realistic portraits, 3D figurines, and restore vintage photographs.
 * 🎨 **Digital Design:** Creating compelling channel banners, logos, and digital branding assets.
 
-<!-- ===================== MAGIC WAND DIVIDER ===================== -->
 <br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magic%20Wand.png" alt="Magic Wand" width="40" />
-  <br>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" alt="divider" />
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" alt="divider" />
 <br>
 
 <!-- ===================== GITHUB STATS & ACTIVITY ===================== -->
@@ -183,13 +149,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manish-kashyap&theme=tokyo-night&hide_border=true&area=true&color=00FF9D&line=00FF9D&point=ffffff" width="100%" alt="Activity Graph" />
 </div>
 
-<!-- ===================== MAGIC WAND DIVIDER ===================== -->
 <br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magic%20Wand.png" alt="Magic Wand" width="40" />
-  <br>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" alt="divider" />
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" alt="divider" />
 <br>
 
 <!-- ===================== TROPHIES & CERTIFICATIONS ===================== -->
@@ -213,13 +174,8 @@
   <blockquote>Demonstrated proficiency in data visualization, data modeling, DAX queries, and data-driven storytelling.</blockquote>
 </details>
 
-<!-- ===================== MAGIC WAND DIVIDER ===================== -->
 <br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magic%20Wand.png" alt="Magic Wand" width="40" />
-  <br>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" alt="divider" />
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" alt="divider" />
 <br>
 
 <!-- ===================== CONNECT ===================== -->
