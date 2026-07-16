@@ -1,8 +1,11 @@
-<!-- ===================== VIP HEADER (MOVING DATA PARTICLES) ===================== -->
+<!-- ===================== VIP MOVING PARTICLES ===================== -->
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="VIP Network Particles" />
-  <br>
-  <h1><b>Hello, I'm Manish! 👋</b></h1>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="120" style="object-fit: cover;" alt="VIP Network Particles" />
+</div>
+
+<!-- ===================== MAIN HEADER (WAVING THEME) ===================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,013220,00FF9D&height=250&section=header&text=Hello,%20I'm%20Manish!%20👋&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Aspiring%20Data%20Analyst%20%7C%20BI%20Developer%20%7C%20Data%20Storyteller&descAlignY=55&descAlign=50&descSize=22" width="100%" alt="Header" />
 </div>
 
 <!-- ===================== DYNAMIC SUB-HEADER ===================== -->
