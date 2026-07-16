@@ -1,11 +1,12 @@
-<!-- ===================== STATIC HEADER (PREMIUM WAVING THEME) ===================== -->
+<!-- ===================== HEADER (MOVING PARTICLES THEME) ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,013220,00FF9D&height=250&section=header&text=Hello,%20I'm%20Manish!%20👋&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Aspiring%20Data%20Analyst%20%7C%20BI%20Developer%20%7C%20Data%20Storyteller&descAlignY=55&descAlign=50&descSize=22" width="100%" alt="Header" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Moving Particles" />
+  <br><br>
+  <h1><b>Hello, I'm Manish! 👋</b></h1>
 </div>
 
 <!-- ===================== DYNAMIC SUB-HEADER ===================== -->
 <div align="center">
-  <br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=24&duration=2500&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;BI+Developer+%26+Data+Storyteller;Transforming+Raw+Data+into+Business+Intel_;Building+Dashboards+with+Power+BI+%26+Tableau;Open+to+Data+Analytics+Internships" alt="Typing SVG" />
   </a>
