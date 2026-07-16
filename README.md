@@ -1,7 +1,7 @@
-<!-- ===================== HEADER (MOVING PARTICLES THEME) ===================== -->
+<!-- ===================== HEADER (MOVING PARTICLES) ===================== -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Moving Particles" />
-  <br><br>
+  <br>
   <h1><b>Hello, I'm Manish! 👋</b></h1>
 </div>
 
@@ -14,25 +14,25 @@
   <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&font=Share+Tech+Mono" alt="Daily Quote" />
 </div>
 
-<!-- ===================== SOCIAL LINKS & PORTFOLIO ===================== -->
+<!-- ===================== SOCIAL LINKS (UNIFIED NEON THEME) ===================== -->
 <div align="center">
   <br>
-  <a href="https://portfolio-ci5f.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=globe&logoColor=00FF9D&labelColor=0D1117&border=00FF9D" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ᴍᴀɴɪꜱʜ-ᴋᴀꜱʜʏᴀᴘ-32022a2aa"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9D&labelColor=0D1117&border=00FF9D" alt="LinkedIn" /></a>
-  <a href="mailto:manishkshyp0123@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9D&labelColor=0D1117&border=00FF9D" alt="Email" /></a>
-  <a href="https://youtube.com/@Ai_baba_ki_comedy"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=00FF9D&labelColor=0D1117&border=00FF9D" alt="YouTube" /></a>
+  <a href="https://portfolio-ci5f.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=globe&logoColor=00FF9D&border=00FF9D" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ᴍᴀɴɪꜱʜ-ᴋᴀꜱʜʏᴀᴘ-32022a2aa"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9D&border=00FF9D" alt="LinkedIn" /></a>
+  <a href="mailto:manishkshyp0123@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9D&border=00FF9D" alt="Email" /></a>
+  <a href="https://youtube.com/@Ai_baba_ki_comedy"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=00FF9D&border=00FF9D" alt="YouTube" /></a>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=Manish-kashyap&label=PROFILE+VIEWS&color=00ff9d&style=flat-square" alt="Profile Views" />
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600" alt="Animated Divider" />
 </div>
 
-<br><br>
-
-<!-- ===================== ABOUT ME & CURRENT STATUS ===================== -->
+<!-- ===================== ABOUT ME ===================== -->
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="35" /> About My Journey</h2>
 </div>
 
-<table align="center" border="0" width="100%">
+<table align="center" border="0" width="100%" cellpadding="10">
   <tr>
     <td width="65%" valign="top">
       <ul>
@@ -52,59 +52,46 @@
 
 <br>
 
-<!-- ===================== DOMAIN EXPERTISE & SKILLS ===================== -->
+<!-- ===================== PREMIUM TECH STACK ===================== -->
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="35" /> Skills & Domain Expertise</h2>
-  <p><i>Bridging the gap between raw data and actionable business strategy</i></p>
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="35" /> Core Technology Arsenal</h2>
+  <p><i>Engineered for data extraction, statistical precision, and visual storytelling.</i></p>
 </div>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%"><b>📊 BI & Visualization</b><br>Dashboards, KPIs, DAX</td>
-    <td align="center" width="25%"><b>🧹 Data Engineering</b><br>ETL, Data Cleaning, SQL</td>
-    <td align="center" width="25%"><b>📈 Data Storytelling</b><br>Actionable Insights</td>
-    <td align="center" width="25%"><b>🤖 AI & Machine Learning</b><br>Predictive Analytics, OCR</td>
-  </tr>
-</table>
+<div align="center">
+  <code><img height="35" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF9D&border=00FF9D"></code>
+  <code><img height="35" src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF9D&border=00FF9D"></code>
+  <code><img height="35" src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00FF9D&border=00FF9D"></code>
+  <code><img height="35" src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00FF9D&border=00FF9D"></code>
+  <br><br>
+  <code><img height="35" src="https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=00FF9D&border=00FF9D"></code>
+  <code><img height="35" src="https://img.shields.io/badge/Tableau-0D1117?style=for-the-badge&logo=tableau&logoColor=00FF9D&border=00FF9D"></code>
+  <code><img height="35" src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=python&logoColor=00FF9D&border=00FF9D"></code>
+  <code><img height="35" src="https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logo=python&logoColor=00FF9D&border=00FF9D"></code>
+</div>
 
 <br>
-
 <div align="center">
-  <h3>Core Tech Stack</h3>
-  <code><img height="35" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
-  <code><img height="35" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"></code>
-  <code><img height="35" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></code>
-  <code><img height="35" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></code>
-  <br><br>
-  <code><img height="35" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></code>
-  <code><img height="35" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"></code>
-  <code><img height="35" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"></code>
-  <code><img height="35" src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"></code>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600" alt="Animated Divider" />
 </div>
+<br>
 
-<br><br>
-
-<!-- ===================== THE ANALYTICS WORKFLOW ===================== -->
+<!-- ===================== THE ANALYTICS WORKFLOW (TIMELINE) ===================== -->
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" /> The Analytics Workflow</h2>
 </div>
 
-<details>
-  <summary><b>🔍 1. Data Extraction & Collection</b></summary>
-  <blockquote>Writing complex SQL queries, utilizing APIs, and web scraping to gather raw, unstructured data from multiple servers.</blockquote>
-</details>
-<details>
-  <summary><b>🧹 2. Data Cleaning & Preprocessing (ETL)</b></summary>
-  <blockquote>Handling null values, standardizing formats, and transforming messy datasets into structured schemas using Pandas and NumPy.</blockquote>
-</details>
-<details>
-  <summary><b>📊 3. Exploratory Data Analysis (EDA)</b></summary>
-  <blockquote>Finding hidden patterns, correlations, and business bottlenecks using applied statistics.</blockquote>
-</details>
-<details>
-  <summary><b>📈 4. Data Visualization & Storytelling</b></summary>
-  <blockquote>Designing interactive, automated, and dynamic dashboards in Power BI and Tableau for non-technical stakeholders.</blockquote>
-</details>
+> **🔍 1. Data Extraction & Collection**  
+> Writing complex SQL queries, utilizing APIs, and web scraping to gather raw, unstructured data from multiple servers.
+
+> **🧹 2. Data Cleaning & Preprocessing (ETL)**  
+> Handling null values, standardizing formats, and transforming messy datasets into structured schemas using Pandas and NumPy.
+
+> **📊 3. Exploratory Data Analysis (EDA)**  
+> Finding hidden patterns, correlations, and business bottlenecks using applied statistics.
+
+> **📈 4. Data Visualization & Storytelling**  
+> Designing interactive, automated, and dynamic dashboards in Power BI and Tableau for non-technical stakeholders.
 
 <br><br>
 
@@ -113,18 +100,18 @@
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" alt="Floppy Disk" width="35" /> Featured Data Projects</h2>
 </div>
 
-<table width="100%" align="center">
+<table width="100%" align="center" cellpadding="10">
   <tr>
     <td width="50%" valign="top">
       <h3>💊 Smart Medicine Scanner</h3>
-      <p>AI-powered application utilizing OCR technology to scan, translate, and explain complex medication details to end-users.</p>
+      <blockquote>AI-powered application utilizing OCR technology to scan, translate, and explain complex medication details to end-users.</blockquote>
       <b>Tech Stack:</b> <br>
       <kbd>Python</kbd> <kbd>OCR</kbd> <kbd>AI Integration</kbd><br><br>
       <a href="https://github.com/Manish-kashyap">🔗 View Repository</a>
     </td>
     <td width="50%" valign="top">
       <h3>📈 Customer Churn Analysis</h3>
-      <p>Exploratory data analysis to identify customer drop-off points, retention metrics, and behavioral purchasing patterns.</p>
+      <blockquote>Exploratory data analysis to identify customer drop-off points, retention metrics, and behavioral purchasing patterns.</blockquote>
       <b>Tech Stack:</b> <br>
       <kbd>Python</kbd> <kbd>Pandas</kbd> <kbd>Seaborn</kbd> <kbd>Stats</kbd><br><br>
       <a href="https://github.com/Manish-kashyap/Customer_Churn_Analysis-Python-">🔗 View Repository</a>
@@ -133,42 +120,40 @@
   <tr>
     <td width="50%" valign="top">
       <h3>✨ Diwali Sales Analysis</h3>
-      <p>Comprehensive BI breakdown of festive sales data uncovering regional sales bottlenecks and purchasing funnels.</p>
+      <blockquote>Comprehensive BI breakdown of festive sales data uncovering regional sales bottlenecks and purchasing funnels.</blockquote>
       <b>Tech Stack:</b> <br>
       <kbd>Data Storytelling</kbd> <kbd>Matplotlib</kbd> <kbd>EDA</kbd><br><br>
       <a href="https://github.com/Manish-kashyap/Diwali_Sales_Analysis-python-">🔗 View Repository</a>
     </td>
     <td width="50%" valign="top">
       <h3>🎬 Content Creation & AI Art</h3>
-      <p>YouTube creator blending technical humor & mini-vlogs. Expert in prompt engineering for hyper-realistic digital assets.</p>
+      <blockquote>YouTube creator blending technical humor & mini-vlogs. Expert in prompt engineering for hyper-realistic digital assets.</blockquote>
       <b>Focus:</b> <br>
-      <kbd>Gen-AI</kbd> <kbd>Video Editing</kbd> <kbd>Digital Branding</kbd><br><br>
+      <kbd>Gen-AI</kbd> <kbd>Video Editing</kbd> <kbd>Branding</kbd><br><br>
       <a href="https://youtube.com/@Ai_baba_ki_comedy">🔗 View Channel</a>
     </td>
   </tr>
 </table>
 
-<br><br>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600" alt="Animated Divider" />
+</div>
+<br>
 
 <!-- ===================== CERTIFICATIONS ===================== -->
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" /> Achievements & Certifications</h2>
 </div>
 
-<br>
+> **🤖 Machine Learning (NPTEL)**  
+> Certified in core machine learning algorithms, data modeling, predictive analytics, and model evaluation techniques.
 
-<details>
-  <summary><b>🤖 Machine Learning (NPTEL)</b></summary>
-  <blockquote>Certified in core machine learning algorithms, data modeling, predictive analytics, and model evaluation techniques.</blockquote>
-</details>
-<details>
-  <summary><b>📊 Advanced Excel (Skilllearn)</b></summary>
-  <blockquote>Certified in advanced data analysis, complex formulas, data manipulation, and building dynamic business reports.</blockquote>
-</details>
-<details>
-  <summary><b>📈 Power BI Certification</b></summary>
-  <blockquote>Demonstrated proficiency in data visualization, data modeling, DAX queries, and data-driven storytelling.</blockquote>
-</details>
+> **📊 Advanced Excel (Skilllearn)**  
+> Certified in advanced data analysis, complex formulas, data manipulation, and building dynamic business reports.
+
+> **📈 Power BI Certification**  
+> Demonstrated proficiency in data visualization, data modeling, DAX queries, and data-driven storytelling.
 
 <br><br>
 
@@ -176,8 +161,8 @@
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" /> Let's Connect & Collaborate!</h2>
   
-  <h3>💬 Interested in Data Analytics, Business Intelligence, or Content Creation?</h3>
-  <p><b>I'm open to internships, collaborations, and exciting data projects. Don't hesitate to reach out!</b></p>
+  <h3>💬 Open to Data Analytics & BI Internships</h3>
+  <p><b>Always eager to discuss data projects, tech collaborations, or content creation.</b></p>
   
   <br>
   
