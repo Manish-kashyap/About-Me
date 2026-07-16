@@ -1,6 +1,6 @@
-<!-- ===================== HEADER (MOVING PARTICLES) ===================== -->
+<!-- ===================== VIP HEADER (MOVING DATA PARTICLES) ===================== -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Moving Particles" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="VIP Network Particles" />
   <br>
   <h1><b>Hello, I'm Manish! 👋</b></h1>
 </div>
